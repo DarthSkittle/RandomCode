@@ -1,0 +1,4 @@
+Random Links to a buinch of helpful tools
+
+https://github.com/ruudmens/LazyAdmin
+https://github.com/Mahmoud7Osman/LSATools
