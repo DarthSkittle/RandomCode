@@ -2,3 +2,5 @@ Random Links to a buinch of helpful tools
 
 https://github.com/ruudmens/LazyAdmin
 https://github.com/Mahmoud7Osman/LSATools
+https://github.com/awesome-lists/awesome-bash
+https://ostechnix.com/collection-useful-bash-scripts-heavy-commandline-users/
